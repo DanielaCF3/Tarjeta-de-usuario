@@ -1,0 +1,32 @@
+.inicial{
+    background-color: rgb(186, 157, 212);
+    position: relative;
+    height: 85px;
+    margin-top: 50px;
+    border:3px solid rgb(186, 157, 212);
+}
+.user{
+    position: absolute;
+    top: 40px;
+    left: 30px;
+    border-radius: 50%;
+    border: 3px solid rgb(148, 148, 148);
+    
+
+
+}
+.contenido{ 
+    padding: 25px 20px;
+    border:3px solid rgb(148, 148, 148);
+    border-top: none;
+}
+
+.contenido, .inicial{
+    margin-right: 600px;
+    margin-left: 500px;
+    
+}
+.especialidades{
+    padding: 0px;
+    
+}
